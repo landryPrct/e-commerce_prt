@@ -1,2 +1,8 @@
 -Install virtualenv
--install django
+-install and setup django
+-install django-rest-framework
+-install django-cors-headers
+-install djoser 
+-install pillow
+-install stripe
+
